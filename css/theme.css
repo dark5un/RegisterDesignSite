@@ -1,0 +1,27 @@
+.navbar {
+	border-bottom:solid 3px #bbb;
+}
+
+.hero-unit {
+	border-bottom:solid 3px #bbb;
+	background:url("../img/stucco.png");	
+}
+
+.dt-logo-mini {
+	display:inline-block;
+	padding:0px 0px 0px;
+	margin:0px;
+	height:16px;
+	width:25px;
+	background:url("../img/mini_logo.png");
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #555;
+  text-decoration: none;
+}
